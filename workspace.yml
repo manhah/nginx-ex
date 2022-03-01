@@ -5,7 +5,7 @@ projects:
   - name: python-hello-world
     source:
       type: zip
-      location: 'https://devfile-registry-labs-infra.apps.cluster-7v2vx.7v2vx.sandbox960.opentlc.com/resources/python-python-hello-world-master.zip'
+      location: 'https://devfile-registry-labs-infra.apps.cluster-h8865.h8865.sandbox1304.opentlc.com/resources/python-python-hello-world-master.zip'
   - name: nginx-ex
     source:
       type: git
