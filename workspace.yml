@@ -4,7 +4,7 @@ metadata:
 projects:
   - name: python-hello-world
     source:
-      type: zip
+      type: git
       location: 'https://github.com/che-samples/python-hello-world.git'
       branch: master
   - name: nginx-ex
